@@ -1,45 +1,56 @@
-Form Validation System
-This project implements a form validation system using HTML, CSS, and JavaScript. It ensures that user inputs are validated according to specified criteria before submission.
+# Registration Form Website
 
-Features
-Validates first name, last name, email, password, confirm password, city, and state fields.
-Provides real-time feedback on input validation status.
-Alerts the user with appropriate error messages if validation fails.
-Changes input field borders to indicate validation status (red for errors, green for success).
-Technologies Used
-Frontend: HTML5, CSS3, JavaScript
-External Libraries: Bootstrap 5 (for styling)
-Fonts: Poppins (from Google Fonts)
-Getting Started
-To run this project locally:
+This project is a simple registration form website implemented using HTML, CSS (including Bootstrap), and JavaScript. It validates user input for registration fields such as first name, last name, email, password, city, and state.
 
-Clone the repository:
+## Table of Contents
 
-bash
-Copy code
-git clone https://github.com/ravikumar9519/Form-Validation-System.git
-Open index.html in your web browser.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup Instructions](#setup-instructions)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Usage
-Fill in the form fields (first name, last name, email, etc.).
-Ensure each field meets the specified validation criteria:
-First and last name must start with a capital letter and contain no spaces or special characters.
-Email must be in a valid format (user@example.com).
-Password must meet complexity requirements (uppercase, lowercase, digits, special characters, minimum length).
-Confirm password must match the original password.
-City must start with a capital letter and contain no spaces or special characters.
-State must be selected from a predefined list of Indian states.
-Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+## Introduction
 
-Fork the repository.
-Create a new branch (git checkout -b feature-new-feature).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-new-feature).
-Create a new Pull Request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project provides a user-friendly registration form interface that validates user inputs in real-time using JavaScript. It ensures that users enter correct and valid information before submission.
 
-Acknowledgments
-This project was inspired by the need for robust form validation techniques in web development.
+## Features
+
+- Responsive design with Bootstrap for a consistent look across devices.
+- Real-time validation of form inputs such as name, email, password, city, and state.
+- Success and error indicators for each form field to guide the user.
+
+## Technologies Used
+
+- HTML5
+- CSS3 (including Bootstrap 5.3.3)
+- JavaScript
+
+## Setup Instructions
+
+To run this project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/registration-form.git`
+2. Navigate to the project directory.
+3. Open `index.html` in your web browser.
+
+## Usage
+
+- Enter your details in the registration form fields.
+- Ensure all required fields are filled correctly as per the validation rules.
+- Click on the "Register" button to submit the form.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please contact [Your Name](mailto:your-email@example.com).
