@@ -33,7 +33,7 @@ This project provides a user-friendly registration form interface that validates
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/registration-form.git`
+1. Clone the repository: `git clone https://github.com/ravikumar9519/Form-Validation-System.git`
 2. Navigate to the project directory.
 3. Open `index.html` in your web browser.
 
