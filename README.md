@@ -10,7 +10,6 @@ This project is a simple registration form website implemented using HTML, CSS (
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
