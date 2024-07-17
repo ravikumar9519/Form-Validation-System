@@ -15,7 +15,7 @@ This project is a simple registration form website implemented using HTML, CSS (
 ## Introduction
 
 This project provides a user-friendly registration form interface that validates user inputs in real-time using JavaScript. It ensures that users enter correct and valid information before submission.
-![Registration Form Screenshot](https://github.com/ravikumar9519/Form-Validation-System/blob/main/Screenshot%202024-07-17%20035538.png)
+![Registration Form Screenshot](https://github.com/ravikumar9519/Form-Validation-System/blob/main/Screenshot%202024-07-18%20023548.png)
 
 ## Features
 
