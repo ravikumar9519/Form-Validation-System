@@ -1,3 +1,7 @@
+# [Deployment Link](https://form-validation-system-ravi.netlify.app/)
+
+![Registration Form Screenshot](https://github.com/ravikumar9519/Form-Validation-System/blob/main/Screenshot%202024-07-18%20023548.png)
+
 # Registration Form Website
 
 This project is a simple registration form website implemented using HTML, CSS (including Bootstrap), and JavaScript. It validates user input for registration fields such as first name, last name, email, password, city, and state.
@@ -12,10 +16,6 @@ This project is a simple registration form website implemented using HTML, CSS (
 - [Contributing](#contributing)
 - [Contact](#contact)
 
-## Introduction
-
-This project provides a user-friendly registration form interface that validates user inputs in real-time using JavaScript. It ensures that users enter correct and valid information before submission.
-![Registration Form Screenshot](https://github.com/ravikumar9519/Form-Validation-System/blob/main/Screenshot%202024-07-18%20023548.png)
 
 ## Features
 
