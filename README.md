@@ -29,6 +29,14 @@ This project is a simple registration form website implemented using HTML, CSS (
 - CSS3 (including Bootstrap 5.3.3)
 - JavaScript
 
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/ravikumar9519/Form-Validation-System.git
+
+   
 ## Setup Instructions
 
 To run this project locally, follow these steps:
